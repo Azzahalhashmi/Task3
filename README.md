@@ -1,9 +1,9 @@
 # Task 3: Chat bot 
 This repository is about creating chat bot using IBM Waston, and there is 2 subTasks:
 
-1- Create the assistant IBM waston. 
+1- Create the assistant IBM waston and export it as a JSON file.
 
-2- Connecting the interface with the assistant.
+2- Integrate with a website. 
 
 Here is the list of files:
 
